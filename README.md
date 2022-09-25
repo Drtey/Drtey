@@ -1,5 +1,8 @@
 ### Hi I'm Javi!
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Drtey&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Drtey's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drtey&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <h2 align="center"> About me </h2>
 <p align="center">
   <samp>A BackEnd developer interested in Machine Learning and Data Science
