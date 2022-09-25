@@ -4,7 +4,6 @@
 <p align="center">
   <samp>A BackEnd developer interested in Machine Learning and Data Science
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=Drtey" alt="https://github.com/Drtey" />
 </p>
 
 <hr>
