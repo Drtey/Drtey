@@ -20,7 +20,6 @@
 </p>
 <p align="center">Python, FastAPI, Node.js, Express.js, PHP, Docker, Git, Github, Numpy, Pandas, Matplotlib, Scikit-learn, TensorFlow</p>
 
-
 <h2  align="center">✉ Reach me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/javier-garcia-garcia-b92694200/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
