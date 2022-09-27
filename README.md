@@ -20,7 +20,7 @@
   <! –– <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />&nbsp;&nbsp;
   
 </p>
-<p align="center"><samp>Python, FastAPI, Node.js, Express.js, PHP, Docker, Git, Github, Numpy, Pandas, Matplotlib, Scikit-learn, TensorFlow</p>
+<p align="center"><samp>Python, FastAPI, Node.js, Express.js, PHP, Docker, Git, Github, Numpy, Pandas, Matplotlib, Scikit-learn</p>
 
 <h2  align="center">✉ Reach me on</h2>
 <p align="center">
