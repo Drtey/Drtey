@@ -20,6 +20,6 @@
   <! –– <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />&nbsp;&nbsp;
   
 </p>
-<p align="center"><samp>Python, FastAPI, Node.js, Express.js, APEX, LWC, Salesforce, Git, GitLab, Github, Numpy, Pandas, Matplotlib, Scikit-learn</p>
+<p align="center"><samp>Python, FastAPI, Node.js, Express.js, Nest.js, Prisma, APEX, LWC, Salesforce, Git, GitLab, Github, Numpy, Pandas, Matplotlib, Scikit-learn</p>
 
 
