@@ -5,7 +5,7 @@
 
 <h2 align="center"> About me </h2>
 <p align="center">
-  <samp>Data Engineer 
+  <samp>Data Engineer with background as Web and Cloud Developer
   <br>
 </p>
 
