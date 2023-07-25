@@ -5,7 +5,7 @@
 
 <h2 align="center"> About me </h2>
 <p align="center">
-  <samp>BackEnd developer interested in Machine Learning and Data Science
+  <samp>Data Engineer 
   <br>
 </p>
 
